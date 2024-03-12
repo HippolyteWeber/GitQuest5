@@ -1,2 +1,1 @@
-# GitQuest5
-WCS COURSE
+REMOTE
